@@ -1,9 +1,8 @@
-
 <p float="left">
-  
-  ![App Screenshot 1](Image.png)
-  ![App Screenshot 2](Image2.png)
+  <img src="Image.png" width="48%" />
+  <img src="Image2.png" width="48%" />
 </p>
+
 # QR Code Generator App
 
 This Python-based app allows users to generate QR codes from any URL or text, using a user-friendly graphical interface built with **Tkinter** and **CustomTkinter**. It also offers features such as saving QR codes, clearing the screen, and switching between light and dark themes.
